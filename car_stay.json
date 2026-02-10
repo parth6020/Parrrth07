@@ -1,6 +1,6 @@
 {
     "id": "com.parth.car.stay",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "name": "Car Stay Widget",
     "description": "Displays a GIF that stays on screen",
     "newInstancePrefix": "CarStay",
@@ -19,4 +19,5 @@
     "properties": {},
     "methods": {},
     "events": {}
+
 }
