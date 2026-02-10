@@ -1,0 +1,22 @@
+{
+    "id": "com.parth.car.stay",
+    "version": "1.0.0",
+    "name": "Car Stay Widget",
+    "description": "Displays a GIF that stays on screen",
+    "newInstancePrefix": "CarStay",
+    "vendor": "Parth",
+    "eula": "",
+    "license": "MIT",
+    "webcomponents": [
+        {
+            "kind": "main",
+            "tag": "car-stay-widget",
+            "url": "https://cdn.jsdelivr.net/gh/parth6020/Parrrth01@main/car_stay.js",
+            "integrity": "",
+            "ignoreIntegrity": true
+        }
+    ],
+    "properties": {},
+    "methods": {},
+    "events": {}
+}
