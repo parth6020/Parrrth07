@@ -10,7 +10,7 @@
     "webcomponents": [
         {
             "kind": "main",
-            "tag": "car-stay-widget",
+            "tag": "car-stay-widget-v2",
             "url": "https://cdn.jsdelivr.net/gh/parth6020/Parrrth01@main/car_stay.js",
             "integrity": "",
             "ignoreIntegrity": true
@@ -21,4 +21,5 @@
     "events": {}
 
 }
+
 
