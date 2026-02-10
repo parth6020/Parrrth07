@@ -1,5 +1,5 @@
 {
-    "id": "com.parth.car.stay",
+    "id": "com.parth.car.stay.v2",
     "version": "2.0.0",
     "name": "Car Stay Widget",
     "description": "Displays a GIF that stays on screen",
@@ -21,3 +21,4 @@
     "events": {}
 
 }
+
