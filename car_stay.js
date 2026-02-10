@@ -32,6 +32,7 @@ class CarStayWidget extends HTMLElement {
   }
 }
 
-if (!customElements.get("car-stay-widget")) {
-  customElements.define("car-stay-widget", CarStayWidget);
+if (!customElements.get("car-stay-widget-v2")) {
+  customElements.define("car-stay-widget-v2", CarStayWidget);
 }
+
